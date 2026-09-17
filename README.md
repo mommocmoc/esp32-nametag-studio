@@ -6,23 +6,11 @@ A 2-inch screen you clip to a lanyard that shows your name, your role, your stat
 
 No prior embedded experience needed. If you can copy a command into a terminal, you can build this.
 
-```
-┌─────────────────────────────────────────────┐
-│ ✦      * HELLO, I MAKE THINGS *          ✦  │
-├──────────────┬──────────────────────────────┤
-│   ╭──────╮   │  Cowcowwow                   │
-│   │ ^  ^ │   │  ╭────────────────────╮      │
-│   │  ‿   │   │  │ Maker & Tinkerer   │      │
-│   ╰──────╯   │  ╰────────────────────╯      │
-│ ╭──────────╮ │  ────────────────────────    │
-│ │Cowcowwow │ │  ╭───────────╮ ╭────────╮    │
-│ ╰──────────╯ │  │OPEN-SOURCE│ │ESP32-S3│    │
-│ ╭──────────╮ │  ╰───────────╯ ╰────────╯    │
-│ │OPEN TO CH│ │  ╭──────────╮        ✦       │
-│ ╰──────────╯ │  │ SAY HI :)│     ✦          │
-└──────────────┴──────────────────────────────┘
-   ID: A4C138F2 | SD: OK        github.com/you
-```
+<p align="center">
+  <img src="docs/media/badge.gif" width="600" alt="The badge running: the avatar blinks, the corner sparkles twinkle.">
+</p>
+
+<p align="center"><em>Running on real hardware &mdash; the default config, straight out of <code>git clone</code>.</em></p>
 
 ---
 
