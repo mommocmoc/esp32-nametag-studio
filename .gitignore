@@ -1,0 +1,23 @@
+# arduino-cli build output
+.build/
+*.bin
+*.elf
+*.map
+
+# generated — regenerate with tools/make_name_bitmap.py
+# (tracked by default so a fresh clone compiles; uncomment to keep it local)
+# nametag/name_bitmap.h
+
+# prepared images
+assets/sd-card/*.png
+assets/sd-card/*.jpg
+!assets/sd-card/README.md
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
